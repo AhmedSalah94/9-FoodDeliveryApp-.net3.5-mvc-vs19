@@ -1,0 +1,190 @@
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\FoodDeliveryApp.dll.config
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\FoodDeliveryApp.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\FoodDeliveryApp.pdb
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csc.exe
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csc.exe.config
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csc.rsp
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csi.exe
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csi.rsp
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.AppContext.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.Collections.Immutable.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.IO.FileSystem.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\vbc.exe
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\vbc.exe.config
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\vbc.rsp
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\VBCSCompiler.exe
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\VBCSCompiler.exe.config
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Antlr3.Runtime.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\EntityFramework.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\EntityFramework.SqlServer.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Google.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Web.Infrastructure.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Newtonsoft.Json.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Owin.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Helpers.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Mvc.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Optimization.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Razor.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.Deployment.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.Razor.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\WebGrease.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Helpers.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Mvc.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Optimization.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Razor.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.Deployment.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.Razor.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Newtonsoft.Json.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Antlr3.Runtime.pdb
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\EntityFramework.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\EntityFramework.SqlServer.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Google.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csprojAssemblyReference.cache
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.CoreCompileInputs.cache
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.CopyComplete
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.pdb
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\PagedList.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\PagedList.Mvc.dll
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\PagedList.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\PagedList.Mvc.xml
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.intiat.resources
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.GenerateResource.cache
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.intiat2.resources
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.intiat3.resources
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.customerorder.resources
+E:\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.customer.resources
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\FoodDeliveryApp.dll.config
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\FoodDeliveryApp.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\FoodDeliveryApp.pdb
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csc.exe
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csc.exe.config
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csc.rsp
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csi.exe
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\csi.rsp
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.AppContext.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\vbc.exe
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\vbc.exe.config
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\vbc.rsp
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Antlr3.Runtime.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\EntityFramework.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Newtonsoft.Json.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Owin.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\PagedList.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\PagedList.Mvc.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Helpers.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Mvc.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Optimization.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Razor.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\WebGrease.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\PagedList.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\PagedList.Mvc.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Helpers.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Mvc.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Optimization.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.Razor.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Newtonsoft.Json.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Antlr3.Runtime.pdb
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\EntityFramework.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.AssemblyReference.cache
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.intiat.resources
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.intiat2.resources
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.intiat3.resources
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.customerorder.resources
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.Migrations.customer.resources
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.GenerateResource.cache
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.CoreCompileInputs.cache
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.csproj.CopyComplete
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.dll
+C:\Users\Lapcom Store\Downloads\Compressed\FoodDeliverApp\FoodDeliverApp\FoodDeliveryApp\FoodDeliveryApp\obj\Debug\FoodDeliveryApp.pdb
