@@ -5,7 +5,7 @@ using System.Web;
 
 namespace FoodDeliveryApp.Enums
 {
-    public enum UserClassEnums
+    public enum UserClassEnums  //not used
     {
         Normal,
         VIP
